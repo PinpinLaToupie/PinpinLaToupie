@@ -3,6 +3,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/FemeniasC?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FemeniasClement?style=social)
 
+Hi !, I'm Clément Féménias--noir 
+
 ## Introduction
 
 Hello and welcome to my website! I am a web developer.
