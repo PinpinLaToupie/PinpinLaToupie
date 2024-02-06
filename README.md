@@ -43,7 +43,7 @@ Hello and welcome to my website! I am a web developer.
 ### Contact
 
 <p>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> @Elfefe0
 </p>
 
 <!-- Markdown -->
