@@ -40,5 +40,10 @@ Hello and welcome to my website! I am a web developer.
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+### Contact
+
+<p>
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
 
 <!-- Markdown -->
